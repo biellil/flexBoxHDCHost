@@ -31,7 +31,7 @@ nav{
 
 }
 .navbar-items{
-    list-style: nome;
+    list-style: none;
     position: absolute ;
     display: inline-block;
     height: 80px;
